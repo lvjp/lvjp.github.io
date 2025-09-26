@@ -3,8 +3,7 @@
     "extends": [
         "config:best-practices",
         ":disableDependencyDashboard",
-        ":disableRateLimiting",
-        "schedule:monthly"
+        ":disableRateLimiting"
     ],
     "timezone": "Europe/Paris"
 }
